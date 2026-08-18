@@ -1,7 +1,4 @@
-# home-assistant-reolink-doorbell-push
-Home Assistant automation for instant Reolink PoE Doorbell notifications with camera preview and live-view access on Android device.
-
-# 🔔 Reolink Doorbell(POE) Push Notifications for Home Assistant
+# 🔔 Reolink Doorbell PoE Push Notifications for Home Assistant
 
 Home Assistant automation for a **Reolink Video Doorbell PoE** that sends instant high-priority Android push notifications when the physical doorbell button is pressed.
 
@@ -16,7 +13,7 @@ The notification wakes the phone, displays a current camera snapshot, plays a de
 * 🔊 Dedicated Android `deurbel` notification channel
 * 🎵 Custom doorbell sound (ding-dong)
 * 📲 Supports multiple mobile devices
-* ✅ Tested with OPPO Find X9 / Android 16 / ColorOS 16
+* ✅ Tested with OPPO Find X9 Ultra / Android 16 / ColorOS 16
 
 ## 🛠️ Requirements
 
